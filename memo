@@ -1,0 +1,6 @@
+
+git init
+
+git commit
+
+git commit -a -m "f1: 1 2 3 4 5 6"
