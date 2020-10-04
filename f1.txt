@@ -2,3 +2,5 @@
 alex2
 alex2 again
 alex2 again on testing
+var2 from alex2
+end
