@@ -2,5 +2,10 @@
 alex2
 alex2 again
 alex2 again on testing
+<<<<<<< HEAD
 var1
 end
+=======
+var2 from alex2
+end
+>>>>>>> 0a57a69bfdd58c9f8f1ddfc2a0146b32f230e46d
